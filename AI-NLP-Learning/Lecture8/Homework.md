@@ -1,4 +1,4 @@
-1. Summarize the reasons of overfitting and underfitting. 
+1. Summarize the reasons of overfitting and underfitting.
 Overfitting：
   1) 模型复杂度过高
   2) 训练数据过少
