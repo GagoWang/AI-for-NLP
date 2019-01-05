@@ -1,10 +1,10 @@
 1. Summarize the reasons of overfitting and underfitting. 
-  Overfitting：
+Overfitting：
   1) 模型复杂度过高
   2) 训练数据过少
   3) 特征数量过多
   
-  Underfitting:
+Underfitting:
   1) 模型复杂度过低
   2) 训练误差大
   3) 特征数量过少
